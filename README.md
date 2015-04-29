@@ -7,7 +7,10 @@ This project runs on Linux Operating System.
         ***LEGAL : This product is not affiliated nor licensed by Nintendo Corporation***
 
 ##Compiling and Running 
-g++ mainPage.cpp -lGL -lGLU -lglut -o SkyBlue3D && ./SkyBlue3D
+
+```bash
+$ g++ mainPage.cpp -lGL -lGLU -lglut -o SkyBlue3D && ./SkyBlue3D
+```
 
 ##Game Instructions
  - Hold Arrow keys to move
