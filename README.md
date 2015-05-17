@@ -26,3 +26,6 @@ $ g++ mainPage.cpp -lGL -lGLU -lglut -o SkyBlue3D && ./SkyBlue3D
       * Charmander : 'l'-Ember
      
  - Press 'q' or 'ESC' to quit
+ 
+##Snapshots
+![alt tag](https://raw.githubusercontent.com/DeekshithShetty/Pokemon-SkyBlue-3D-Version/master/project.png)
